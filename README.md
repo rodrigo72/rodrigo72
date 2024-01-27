@@ -23,7 +23,7 @@
 | Sistemas Operativos | [Guiões](https://github.com/rodrigo72/SO-exercicios) | [Projeto](https://github.com/rodrigo72/Projeto-SO) |
 | Programação Orientada aos Objetos | - | [Vinted](https://github.com/rodrigo72/Vinted-OOP-Project) |
 | Cálculo de Programas | [Teoria e exercícios](https://github.com/rodrigo72/CP-exercicios) | - |
-| Comunicações por Computador | - | [Trabalhos práticos](https://github.com/rodrigo72/CC) |
+| Comunicações por Computador | [Teoria](https://github.com/rodrigo72/CC/tree/main/Teoria) | [Trabalhos práticos](https://github.com/rodrigo72/CC) |
 | Desenvolvimento de Sistemas de Software | [Teoria e exercícios](https://github.com/rodrigo72/DSS-exercicios) | [Projeto](https://github.com/rodrigo72/DSS) |
 | Inteligência Artificial | [Exercícios](https://github.com/rodrigo72/IA-exercicios) | [Projeto](https://github.com/rodrigo72/IA) |
 | Laboratórios de Informática IV | - | [.NET WebApp (Auctions)](https://github.com/rodrigo72/LI4)|
