@@ -28,6 +28,10 @@
 | Inteligência Artificial | [Exercícios](https://github.com/rodrigo72/IA-exercicios) | [Projeto](https://github.com/rodrigo72/IA) |
 | Laboratórios de Informática IV | - | [ASP.NET Web App (Auctions)](https://github.com/rodrigo72/LI4)|
 | Sistemas Distribuídos | [Guiões](https://github.com/rodrigo72/SD-exercicios) | [Cloud Computing](https://github.com/rodrigo72/SD) |
+| Processamento de Linguagens | [TPCs](https://github.com/rodrigo72/PL2024) | - |
+| Computação Gráfica | - | - |
+| Aprendizagem e Decisão Inteligentes | - | - |
+| Interface Pessoa-Máquina | - | - |
 
 ### Outros projetos
 
