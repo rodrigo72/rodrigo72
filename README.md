@@ -26,7 +26,7 @@
 | Comunicações por Computador | [Teoria](https://github.com/rodrigo72/CC/tree/main/Teoria) | [Trabalhos práticos](https://github.com/rodrigo72/CC) |
 | Desenvolvimento de Sistemas de Software | [Teoria e exercícios](https://github.com/rodrigo72/DSS-exercicios) | [Projeto](https://github.com/rodrigo72/DSS) |
 | Inteligência Artificial | [Exercícios](https://github.com/rodrigo72/IA-exercicios) | [Projeto](https://github.com/rodrigo72/IA) |
-| Laboratórios de Informática IV | - | [ASP.NET Web App (Auctions)](https://github.com/rodrigo72/LI4)|
+| Laboratórios de Informática IV | - | [ASP.NET Web App](https://github.com/rodrigo72/LI4)|
 | Sistemas Distribuídos | [Guiões](https://github.com/rodrigo72/SD-exercicios) | [Cloud Computing](https://github.com/rodrigo72/SD) |
 | Processamento de Linguagens | [TPCs](https://github.com/rodrigo72/PL2024) | - |
 | Computação Gráfica | - | - |
