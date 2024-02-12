@@ -29,7 +29,7 @@
 | Laboratórios de Informática IV | - | [ASP.NET Web App](https://github.com/rodrigo72/LI4)|
 | Sistemas Distribuídos | [Guiões](https://github.com/rodrigo72/SD-exercicios) | [Cloud Computing](https://github.com/rodrigo72/SD) |
 | Processamento de Linguagens | [TPCs](https://github.com/rodrigo72/PL2024) | - |
-| Computação Gráfica | - | - |
+| Computação Gráfica | [Exercícios](https://github.com/rodrigo72/CG-exercicios) | - |
 | Aprendizagem e Decisão Inteligentes | - | - |
 | Interface Pessoa-Máquina | - | - |
 
