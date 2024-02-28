@@ -36,7 +36,7 @@
 ### Outros projetos
 
 - [Digital Garden](https://github.com/rodrigo72/digital-garden) - Personal Website / Markdown file storage (tipo obsidian)
-- [RudriguAI](https://github.com/rodrigo72/rudriguAI-discord.js) - Discord Bot treinado com (demaisadas) mensagens de modo a imitar certos utilizadores; utiliza modelos da OpenAI
+- [RudriguAI](https://github.com/rodrigo72/rudriguAI-discord.js) - Discord Bot treinado com (demasiadas) mensagens de modo a imitar certos utilizadores; utiliza modelos da OpenAI
 - [Advent of Code](https://github.com/rodrigo72/Advent-of-Code) - Algumas soluções em C++ e Java
 - [CSS Battle](https://github.com/rodrigo72/css-battle) - CSS mas cursed
 - [DGES Simulator](https://github.com/rodrigo72/dges-simulator) - Motivo: curiosidade acerca de como funciona o algoritmo de distribuição de alunos por cursos
