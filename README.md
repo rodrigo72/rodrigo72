@@ -31,7 +31,7 @@
 | Processamento de Linguagens | [TPCs](https://github.com/rodrigo72/PL2024) | - |
 | Computação Gráfica | [Exercícios](https://github.com/rodrigo72/CG-exercicios) | - |
 | Aprendizagem e Decisão Inteligentes | - | - |
-| Interface Pessoa-Máquina | - | - |
+| Interface Pessoa-Máquina | - | [Projeto](https://github.com/rodrigo72/IPM) |
 
 ### Outros projetos
 
