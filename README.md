@@ -57,7 +57,7 @@
 | --- | :---: | :---: |
 | Processamento de Linguagens | [TPCs](https://github.com/rodrigo72/PL2024) | [Forth Compiler](https://github.com/rodrigo72/PL-Project) |
 | Computação Gráfica | [Exercícios](https://github.com/rodrigo72/CG-exercicios) | [3D Rendering Engine](https://github.com/rodrigo72/CG) |
-| Aprendizagem e Decisão Inteligentes | - | [Projeto KNIME](https://github.com/rodrigo72/ADI) |
+| Aprendizagem e Decisão Inteligentes | [Fichas](https://github.com/rodrigo72/ADI-exercicios) | [Projeto KNIME](https://github.com/rodrigo72/ADI) |
 | Interface Pessoa-Máquina | [Fichas](https://github.com/rodrigo72/IPM-exercicios) | [Vue.js website](https://github.com/rodrigo72/IPM) |
 | Análise de Projetos | - | [TP](https://github.com/rodrigo72/AP) |
 | Segurança de Sistemas Informáticos | [Guiões](https://github.com/rodrigo72/SSI-guioes) | [TPs](https://github.com/rodrigo72/SSI-TPs) |
