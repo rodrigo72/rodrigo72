@@ -70,5 +70,7 @@
 - [Advent of Code](https://github.com/rodrigo72/Advent-of-Code) - Algumas soluções em C++ e Java
 - [CSS Battle](https://github.com/rodrigo72/css-battle) - CSS mas cursed
 - [DGES Simulator](https://github.com/rodrigo72/dges-simulator) - Motivo: curiosidade acerca de como funciona o algoritmo de distribuição de alunos por cursos
+- [Literature Club Discord Bot](https://github.com/rodrigo72/literature-club-discord-bot) - Discord Bot com uma json-based database que faz parsing de sugestões com recurso a Ply Lex e Yacc
+- [Simple neural network](https://github.com/rodrigo72/simple-neural-network) - Escrita em python; com backpropagation.
 - [Task Manager Discord Bot](https://github.com/rodrigo72/task-manager-discord-bot) - Deixei de gostar de MongoDB por causa disto
 - [RudriguBot](https://github.com/rodrigo72/RudriguBot) - Primeiro discord bot que fiz (não sabia o que estava a fazer) 
