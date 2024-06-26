@@ -64,7 +64,7 @@
 
 ### Outros projetos
 
-- [Notes](https://github.com/rodrigo72/notes) - Static [website](https://rodrigo72.github.io/notes/) to store notes
+- [Notes](https://github.com/rodrigo72/notes) - Static [website](https://rodrigo72.github.io/notes/) to display notes
 - [RudriguAI](https://github.com/rodrigo72/rudriguAI-discord.js) - Discord Bot treinado com (demasiadas) mensagens de modo a imitar certos utilizadores; utiliza modelos da OpenAI
 - [Digital Garden](https://github.com/rodrigo72/digital-garden) - Personal Website / Markdown file storage (tipo obsidian)
 - [Advent of Code](https://github.com/rodrigo72/Advent-of-Code) - Algumas soluções em C++ e Java
