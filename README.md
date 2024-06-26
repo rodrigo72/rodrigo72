@@ -64,7 +64,7 @@
 
 ### Outros projetos
 
-- [Notes](https://github.com/rodrigo72/notes) - Static website to store notes (https://rodrigo72.github.io/notes/)
+- [Notes](https://github.com/rodrigo72/notes) - Static [website](https://rodrigo72.github.io/notes/) to store notes
 - [RudriguAI](https://github.com/rodrigo72/rudriguAI-discord.js) - Discord Bot treinado com (demasiadas) mensagens de modo a imitar certos utilizadores; utiliza modelos da OpenAI
 - [Digital Garden](https://github.com/rodrigo72/digital-garden) - Personal Website / Markdown file storage (tipo obsidian)
 - [Advent of Code](https://github.com/rodrigo72/Advent-of-Code) - Algumas soluções em C++ e Java
@@ -72,6 +72,6 @@
 - [DGES Simulator](https://github.com/rodrigo72/dges-simulator) - Motivo: curiosidade acerca de como funciona o algoritmo de distribuição de alunos por cursos
 - [Literature Club Discord Bot](https://github.com/rodrigo72/literature-club-discord-bot) - Discord Bot com uma json-based database que faz parsing de sugestões com recurso a Ply Lex e Yacc
 - [Simple neural network](https://github.com/rodrigo72/simple-neural-network) - Escrita em python; com backpropagation.
-- [countdown-per-task](https://github.com/rodrigo72/countdown-per-task) - Website para monitorizar a velocidade do progresso de execução de tarefas (https://rodrigo72.github.io/countdown-per-task/)
+- [countdown-per-task](https://github.com/rodrigo72/countdown-per-task) - [Website](https://rodrigo72.github.io/countdown-per-task/) para monitorizar a velocidade do progresso de execução de tarefas
 - [Task Manager Discord Bot](https://github.com/rodrigo72/task-manager-discord-bot) - Deixei de gostar de MongoDB por causa disto
 - [RudriguBot](https://github.com/rodrigo72/RudriguBot) - Primeiro discord bot que fiz (não sabia o que estava a fazer) 
