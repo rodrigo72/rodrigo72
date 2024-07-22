@@ -68,6 +68,7 @@
 - [RudriguAI](https://github.com/rodrigo72/rudriguAI-discord.js) - Discord Bot treinado com (demasiadas) mensagens de modo a imitar certos utilizadores; utiliza modelos da OpenAI
 - [Digital Garden](https://github.com/rodrigo72/digital-garden) - Personal Website / Markdown file storage (tipo obsidian)
 - [Advent of Code](https://github.com/rodrigo72/Advent-of-Code) - Algumas soluções em C++ e Java
+- [chord-to-notes](https://github.com/rodrigo72/chord-to-notes) - Recebe o nome de um acorde, e retorna uma lista de nomes das notas que o compõem de acordo com a escala em que se encontra
 - [CSS Battle](https://github.com/rodrigo72/css-battle) - CSS mas cursed
 - [DGES Simulator](https://github.com/rodrigo72/dges-simulator) - Motivo: curiosidade acerca de como funciona o algoritmo de distribuição de alunos por cursos
 - [Literature Club Discord Bot](https://github.com/rodrigo72/literature-club-discord-bot) - Discord Bot com uma json-based database que faz parsing de sugestões com recurso a Ply Lex e Yacc
