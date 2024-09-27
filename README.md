@@ -75,4 +75,7 @@
 - [Simple neural network](https://github.com/rodrigo72/simple-neural-network) - Escrita em python; com backpropagation.
 - [countdown-per-task](https://github.com/rodrigo72/countdown-per-task) - [Website](https://rodrigo72.github.io/countdown-per-task/) para monitorizar o progresso de execução de tarefas
 - [Task Manager Discord Bot](https://github.com/rodrigo72/task-manager-discord-bot) - Deixei de gostar de MongoDB por causa disto
-- [RudriguBot](https://github.com/rodrigo72/RudriguBot) - Primeiro discord bot que fiz (não sabia o que estava a fazer) 
+- [RudriguBot](https://github.com/rodrigo72/RudriguBot) - Primeiro discord bot que fiz (não sabia o que estava a fazer)
+
+
+![](https://komarev.com/ghpvc/?username=rodrigo72&color=blue)
