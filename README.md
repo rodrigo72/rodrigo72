@@ -76,6 +76,6 @@
 - [countdown-per-task](https://github.com/rodrigo72/countdown-per-task) - [Website](https://rodrigo72.github.io/countdown-per-task/) para monitorizar o progresso de execução de tarefas
 - [Task Manager Discord Bot](https://github.com/rodrigo72/task-manager-discord-bot) - Deixei de gostar de MongoDB por causa disto
 - [RudriguBot](https://github.com/rodrigo72/RudriguBot) - Primeiro discord bot que fiz (não sabia o que estava a fazer)
-
+- [open-reference](https://github.com/rodrigo72/open-reference) - Command-line tool para abrir imagens ou vídeos aleatórios de categorias especificadas
 
 ![](https://komarev.com/ghpvc/?username=rodrigo72&color=blue)
