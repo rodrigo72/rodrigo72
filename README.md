@@ -77,5 +77,7 @@
 - [Task Manager Discord Bot](https://github.com/rodrigo72/task-manager-discord-bot) - Deixei de gostar de MongoDB por causa disto
 - [RudriguBot](https://github.com/rodrigo72/RudriguBot) - Primeiro discord bot que fiz (não sabia o que estava a fazer)
 - [open-reference](https://github.com/rodrigo72/open-reference) - Command-line tool para abrir imagens ou vídeos aleatórios de categorias especificadas
+- [Python scripts](https://github.com/rodrigo72/random-python-scripts)
+- [dotfiles](https://github.com/rodrigo72/dotfiles)
 
 ![](https://komarev.com/ghpvc/?username=rodrigo72&color=blue)
