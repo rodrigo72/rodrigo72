@@ -69,15 +69,15 @@
 - [Digital Garden](https://github.com/rodrigo72/digital-garden) - Personal Website / Markdown file storage (tipo obsidian)
 - [Advent of Code](https://github.com/rodrigo72/Advent-of-Code) - Algumas soluções em C++ e Java
 - [chord-to-notes](https://github.com/rodrigo72/chord-to-notes) - Recebe o nome de um acorde, e retorna uma lista de nomes das notas que o compõem de acordo com a escala em que se encontra
+- [open-reference](https://github.com/rodrigo72/open-reference) - Command-line tool para abrir imagens ou vídeos aleatórios de categorias especificadas
 - [CSS Battle](https://github.com/rodrigo72/css-battle) - CSS mas cursed
+- [dotfiles](https://github.com/rodrigo72/dotfiles) - EndeavourOS with i3wm dotfiles
 - [DGES Simulator](https://github.com/rodrigo72/dges-simulator) - Motivo: curiosidade acerca de como funciona o algoritmo de distribuição de alunos por cursos
 - [Literature Club Discord Bot](https://github.com/rodrigo72/literature-club-discord-bot) - Discord Bot com uma json-based database que faz parsing de sugestões com recurso a Ply Lex e Yacc
 - [Simple neural network](https://github.com/rodrigo72/simple-neural-network) - Escrita em python; com backpropagation.
 - [countdown-per-task](https://github.com/rodrigo72/countdown-per-task) - [Website](https://rodrigo72.github.io/countdown-per-task/) para monitorizar o progresso de execução de tarefas
 - [Task Manager Discord Bot](https://github.com/rodrigo72/task-manager-discord-bot) - Deixei de gostar de MongoDB por causa disto
 - [RudriguBot](https://github.com/rodrigo72/RudriguBot) - Primeiro discord bot que fiz (não sabia o que estava a fazer)
-- [open-reference](https://github.com/rodrigo72/open-reference) - Command-line tool para abrir imagens ou vídeos aleatórios de categorias especificadas
-- [Python scripts](https://github.com/rodrigo72/random-python-scripts)
-- [dotfiles](https://github.com/rodrigo72/dotfiles)
+- [random-python-scripts](https://github.com/rodrigo72/random-python-scripts)
 
 ![](https://komarev.com/ghpvc/?username=rodrigo72&color=blue)
