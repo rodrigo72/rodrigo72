@@ -80,4 +80,6 @@
 - [RudriguBot](https://github.com/rodrigo72/RudriguBot) - Primeiro discord bot que fiz (não sabia o que estava a fazer)
 - [random-python-scripts](https://github.com/rodrigo72/random-python-scripts)
 
+---
+
 ![](https://komarev.com/ghpvc/?username=rodrigo72&color=blue)
