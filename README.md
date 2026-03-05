@@ -1,10 +1,3 @@
-### Stats
-
-<div>
-  <a href="https://github.com/rodrigo72">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo72&layout=compact&langs_count=7&theme=city_lights"/>
-</div>
-
 ### Licenciatura em Engenharia Informática - Teoria, exercícios e projetos
 
 #### 1º ano 1º semestre
